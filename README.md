@@ -1,7 +1,7 @@
 # Analysis of Kickstarter Campaigns through various visualizations.
-### As I performed analysis on the Kickstarter data, I gained a couple key points of feedback to share with Louise. This will provide her the visibility and information she needs to understand the many trends found within the data sheet she shared. 
+### Purpose: As I performed analysis on the Kickstarter data, I gained a couple key points of feedback to share with Louise. This will provide her the visibility and information she needs to understand the many trends found within the data sheet she shared. 
 
-Attached are a two visuals created in the datasheet with feedback and insight. 
+## Awareness: Attached are a two visuals created in the datasheet with feedback and insight. 
 
 #### Outcome Based on Launch Date 
 ![Outcome Based on Launch](https://user-images.githubusercontent.com/102767530/172751362-c5ab81b4-ece1-4fe3-9f68-54d9325c1c73.png)
