@@ -13,4 +13,4 @@ As seen in this line graph, there is a peak of success in the month of May throu
 ![GB Playes Count of Outcomes](https://user-images.githubusercontent.com/102767530/172752727-48563c98-65ec-4100-b418-9071217d4e1f.png)
 
 #### Insight
-As seen in this stacked bar chart, in Great Britain (GB, there were a grand total of 314 plays of which 238 were successful. There's a high probability if Louise persuded theater in the GB are she would be successful. 
+As seen in this stacked bar chart, in Great Britain (GB) there is a grand total of 314 plays of which 238 were successful. There's a high probability if Louise persuded her theater campaign in the GB are she would be successful. 
